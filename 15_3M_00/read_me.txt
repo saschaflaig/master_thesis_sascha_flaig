@@ -1,1 +1,0 @@
-F:\users\safl\ma_neuronale_netze\model\python\test\alt\5\G01_M02
