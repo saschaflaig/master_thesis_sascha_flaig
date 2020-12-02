@@ -1,0 +1,34 @@
+#############################################################################
+[input]
+
+# swap water level (swl) [m ue. NN]
+swl = ../../hydrogeology/15-3M/kupmaps_tserie_1_1_0_15-3M___MRP2015-3.dat
+
+# precipitaion oberau (p_obe) [mm/h]
+p_obe = ../../meteo/meteorologie_oberau/kupmaps_tserie_3_1_0_Meteorologie_Oberau.dat
+
+# precipitaion_gar (p_gar) [mm/h]
+p_gar = ../../meteo/meteorologie_garmisch_partenkirchen/kupmaps_tserie_3_1_0_Meteorologie_Garmisch-Partenkirchen.dat
+
+# evapotranspiration_oberau (et_obe) [mm/h]
+et_obe = ../../meteo/meteorologie_oberau/kupmaps_tserie_78_5_0_Meteorologie_Oberau.dat
+
+# evapotranspiration_garmisch (et_gar) [mm/h]
+et_gar = ../../meteo/oberau_evapo_completement/evap_15_3m.dat
+
+# pumping_rate well_2 (w_2) [l/s]
+w_2 = ../../pumping/brunnen_2/kupmaps_tserie_2_1_0_Brunnen_2.dat 
+
+# pumping_rate well_3 (w_3) [l/s]
+w_3 = ../../pumping/brunnen_3/kupmaps_tserie_2_1_0_Brunnen_3.dat
+
+# pumping_rate well_4 (w_4) [l/s]
+w_4 = ../../pumping/brunnen_4/kupmaps_tserie_2_1_0_Brunnen_4.dat 
+
+# pumping_rate well_5 (w_5) [l/s]
+w_5 = ../../pumping/brunnen_5/kupmaps_tserie_2_1_0_Brunnen_5.dat 
+
+# pumping_rate well_6 (w_6) [l/s]
+w_6 = ../../pumping/brunnen_6/kupmaps_tserie_2_1_0_Brunnen_6.dat
+
+#############################################################################
